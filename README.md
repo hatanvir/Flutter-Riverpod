@@ -1,16 +1,13 @@
-# flutter_riverpod
+# Flutter-Riverpod
+It's a practice project to implement riverpod state management in flutter. For those who are interested to implement riverpod in their project, this repo can help them.
 
-A new Flutter project.
+<b>Features added<b>
+ 
+ >Implemented apis with riverpod and http. Api Source (https://jsonplaceholder.typicode.com)
+ 
+ >Bottom navigation with riverpod.
+  
+<b>App screenshot</b>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ <img src="https://github.com/hatanvir/Flutter-Riverpod/blob/master/screenshot/Post.png" alt="Image view" height="430" width="230">  
+ <img src="https://github.com/hatanvir/Flutter-Riverpod/blob/master/screenshot/Photos.png" alt="Image view" height="430" width="230">
